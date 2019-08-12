@@ -29,6 +29,9 @@ npm install
 
 # Watch Files
 npm run watch
+
+# Serve Application over port 8000
+php artisan serve
 ```
 
 ## Endpoints
